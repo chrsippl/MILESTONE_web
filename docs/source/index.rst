@@ -5,8 +5,13 @@ MILESTONE **Mi**croseismicity Illuminates Subduction Zone Processes is an ERC St
 
 This page contains
 
-Introduction: Subduction Zones and Seismicity
+1. Introduction: Subduction Zones and Seismicity
 --------
+
+- Background seismicity and large events
+- Different types of seismicity
+- Rates and Mc
+- What information is contained?
 
 2) Project Goals
 
