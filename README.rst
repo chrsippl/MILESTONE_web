@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+MILESTONE project web page
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This repository contains the web page for project MILESTONE.
