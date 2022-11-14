@@ -22,7 +22,7 @@ MILESTONE (MIcroseismicity iLuminatEs SubducTion zONE processes) is an ERC Start
 
 .. image:: ../ISC_vs_chain.jpg
    :height: 600
-   :width: 800
+   :width: 900
    :align: center
  
 *Figure 1: Comparison between earthquake locations in Northern Chile (left column) and the Western Pamir (right column), taken from global catalogs (upper row) and retrieved with an automated procedure using locally recorded seismic data (lower row). In both cases, the same cross section for the same time period is shown for both catalogs. This illustrates that analyzing local seismic data leads to a much clearer picture due to more events and improved location precision.*
