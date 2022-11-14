@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'MIELSTONE'
+project = 'MILESTONE'
 copyright = '2022'
 author = 'CS'
 
