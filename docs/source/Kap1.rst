@@ -11,6 +11,6 @@ This is a link to the `Python website`_.
 
 .. _Python website: http://www.python.org/
 
-This is a link back to `Section 1`_. You can link based off of the heading name
+This is a link back to `index`_. You can link based off of the heading name
 within a document.
 
