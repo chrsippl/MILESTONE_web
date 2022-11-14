@@ -38,7 +38,7 @@ Project MILESTONE is composed of five work packages, presented in the following:
 4. Preliminary Results
 --------
 
-5. Introduction of the MILESTONE Team
+5. MILESTONE Team
 --------
 
 6. Project Outputs and Publications
