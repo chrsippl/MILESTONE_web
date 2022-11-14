@@ -44,11 +44,22 @@ Project MILESTONE is composed of five work packages, presented in the following:
 6. Project Outputs and Publications
 --------
 
-**2021**:
+**2022**:
 
 Sippl, C., Dielforder, A., John, T., & Schmalholz, S. M. (2022). Global constraints on intermediate-depth intraslab stresses from slab geometries and mechanisms of double seismic zone earthquakes. Geochemistry, Geophysics, Geosystems, 23, e2022GC010498. `https://doi.org/10.1029/2022GC010498`_
 
 .. _https://doi.org/10.1029/2022GC010498: https://doi.org/10.1029/2022GC010498
+
+Geersen, J., Sippl, C., Harmon, N. (2022). Impact of bending-related faulting and oceanic-plate topography on slab hydration and intermediate-depth seismicity. Geosphere, 18 (2), 562–584. `https://doi.org/10.1130/GES02367.1`_
+
+.. _https://doi.org/10.1130/GES02367.1: https://doi.org/10.1130/GES02367.1
+
+
+**2021**:
+
+ Sippl, C., Moreno, M., & Benavente, R. (2021). Microseismicity appears to outline highly coupled regions on the Central Chile megathrust. Journal of Geophysical Research: Solid Earth, 126, e2021JB022252. `https://doi.org/10.1029/2021JB022252`_
+ 
+.. _https://doi.org/10.1029/2021JB022252: https://doi.org/10.1029/2021JB022252
 
 7. Datasets
 --------
