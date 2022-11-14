@@ -11,6 +11,6 @@ This is a link to the `Python website`_.
 
 .. _Python website: http://www.python.org/
 
-This is a link back to `index`_. You can link based off of the heading name
-within a document.
+This is a link back to `index`_. 
+.. _index: https://github.com/chrsippl/MILESTONE_web/edit/main/docs/source/index.rst
 
