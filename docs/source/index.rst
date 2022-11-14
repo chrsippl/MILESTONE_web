@@ -44,6 +44,12 @@ Project MILESTONE is composed of five work packages, presented in the following:
 6. Project Outputs and Publications
 --------
 
+**2021**:
+
+Sippl, C., Dielforder, A., John, T., & Schmalholz, S. M. (2022). Global constraints on intermediate-depth intraslab stresses from slab geometries and mechanisms of double seismic zone earthquakes. Geochemistry, Geophysics, Geosystems, 23, e2022GC010498. `https://doi.org/10.1029/2022GC010498`_
+
+.. _https://doi.org/10.1029/2022GC010498: https://doi.org/10.1029/2022GC010498
+
 7. Datasets
 --------
 
