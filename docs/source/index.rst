@@ -47,6 +47,19 @@ Project MILESTONE is composed of five work packages, presented in the following:
 5. MILESTONE Team
 --------
 
+At IG-CAS, Prague
+----
+
+PI: Christian Sippl
+Postdocs: XXX
+PhD students: 
+   Nazia Hassan
+   Nooshin Najafipour
+   Jorge Puente Huerta
+
+External Collaborators:
+
+
 6. Project Outputs and Publications
 --------
 
