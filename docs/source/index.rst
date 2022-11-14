@@ -21,9 +21,9 @@ MILESTONE (MIcroseismicity iLuminatEs SubducTion zONE processes) is an ERC Start
 - Novel and more complete seismicity catalogs for different subduction zones through the application of ML-based picking and association approaches
 
 .. image:: ../ISC_vs_chain.jpg
-   :height: 250
-   :width: 250
-   :alt: Test
+   :height: 600
+   :width: 800
+ 
  
 
 
