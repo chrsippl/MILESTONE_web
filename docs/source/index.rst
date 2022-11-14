@@ -44,13 +44,16 @@ Project MILESTONE is composed of five work packages, presented in the following:
 6. Project Outputs and Publications
 --------
 
-7. News
+7. Datasets
 --------
+
+Links to Datasets (e.g. seismicity catalogs) produced within the framework of the project will be provided here.
+
 
 8. Contact
 --------
 
-
+sippl[at]ig.cas.cz
 
 
    This page is under active development.
