@@ -7,12 +7,10 @@ MILESTONE (Microseismicity Illuminates Subduction Zone Processes) is an ERC Star
 1. Introduction: Subduction Zones and Seismicity
 --------
 
+- `Background seismicity and large events`_
 
-Link to `Chapter1`_. 
+.. _Background seismicity and large events: https://milestone-web.readthedocs.io/en/latest/Kap1.html
 
-.. _Chapter1: https://milestone-web.readthedocs.io/en/latest/Kap1.html
-
-- Background seismicity and large events
 - Different types of seismicity
 - Rates and Mc
 - What information is contained?
@@ -27,6 +25,15 @@ Link to `Chapter1`_.
 
 3. Project Structure
 --------
+
+Project MILESTONE is composed of five work packages, presented in the following:
+
+- WP1:
+- WP2: 
+- WP3:
+- WP4:
+- WP5:
+
 
 4. Preliminary Results
 --------
