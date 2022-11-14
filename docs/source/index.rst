@@ -1,10 +1,7 @@
 Project MILESTONE (short overview)
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+MILESTONE (:bold:Mi croseismicity Illuminates Subduction Zone Processes) is an ERC Starting Grant project currently carried out at the Institute of Geophysics, CAS, Prague.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
