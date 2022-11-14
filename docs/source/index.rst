@@ -23,6 +23,7 @@ MILESTONE (MIcroseismicity iLuminatEs SubducTion zONE processes) is an ERC Start
 .. image:: ../ISC_vs_chain.jpg
    :height: 600
    :width: 800
+   :align: center
  
  
 
