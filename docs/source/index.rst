@@ -4,6 +4,7 @@ Project MILESTONE (short overview)
 MILESTONE (Microseismicity Illuminates Subduction Zone Processes) is an ERC Starting Grant project currently carried out at the Institute of Geophysics, CAS, Prague.
 
 This page contains
+
 1) Introduction: Subduction Zones and Seismicity
 
 2) Project Goals
