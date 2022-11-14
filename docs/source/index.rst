@@ -5,7 +5,8 @@ MILESTONE **Mi**croseismicity Illuminates Subduction Zone Processes is an ERC St
 
 This page contains
 
-1) Introduction: Subduction Zones and Seismicity
+Introduction: Subduction Zones and Seismicity
+--------
 
 2) Project Goals
 
