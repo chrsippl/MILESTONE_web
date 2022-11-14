@@ -58,7 +58,7 @@ Geersen, J., Sippl, C., Harmon, N. (2022). Impact of bending-related faulting an
 
 **2021**:
 
- Sippl, C., Moreno, M., & Benavente, R. (2021). Microseismicity appears to outline highly coupled regions on the Central Chile megathrust. Journal of Geophysical Research: Solid Earth, 126, e2021JB022252. `https://doi.org/10.1029/2021JB022252`_
+Sippl, C., Moreno, M., & Benavente, R. (2021). Microseismicity appears to outline highly coupled regions on the Central Chile megathrust. Journal of Geophysical Research: Solid Earth, 126, e2021JB022252. `https://doi.org/10.1029/2021JB022252`_
  
 .. _https://doi.org/10.1029/2021JB022252: https://doi.org/10.1029/2021JB022252
 
